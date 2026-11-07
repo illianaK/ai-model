@@ -1,0 +1,10 @@
+{
+  "name": "android-offline-ai-builder",
+  "version": "1.0.0",
+  "description": "Script-driven automation pipeline for compiling offline GGUF model apps",
+  "main": "script.js",
+  "scripts": {
+    "build-apk": "node script.js"
+  },
+  "dependencies": {}
+}
